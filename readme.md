@@ -7,4 +7,5 @@
 1. Ghostty
 1. Oh My Posh
 1. Z
+<br>
 Each folder has a `readme.md` on how to properly configure
