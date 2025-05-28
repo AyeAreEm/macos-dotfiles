@@ -141,7 +141,6 @@ lazy.setup({
         "stevearc/oil.nvim",
         config = function()
             require('oil').setup {
-                columns = { "icons" },
                 keymaps = {
                     ["<C-h>"] = false,
                     ["<M-h>"] = "actions.select_split",
